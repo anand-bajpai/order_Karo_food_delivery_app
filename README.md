@@ -340,9 +340,6 @@ Please follow the existing code style and ensure your changes do not break exist
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](https://github.com/Wolfgang281/OrderKaro--food-del-app/blob/main/LICENSE).
 
 ---
 
